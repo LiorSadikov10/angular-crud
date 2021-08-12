@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "asi",
+      "lastName": "mon",
+      "email": "asi.mon@gmail.com",
+      "mobile": "0506521525",
+      "salary": "20000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
